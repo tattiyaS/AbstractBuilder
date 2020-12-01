@@ -1,4 +1,4 @@
-# Build an Abstract from PRs
+# Build an Abstract from PRs Positive Sentiment Please
 Class Activity for Special Lecture
 
 Task: Using Collaboration and PRs in GitHub to build your fake Abstract. 

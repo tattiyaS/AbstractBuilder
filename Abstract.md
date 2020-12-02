@@ -1,5 +1,5 @@
 
-NAIST is a very happy place to study ....
+NAIST is a very happy place to study information science.
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether NAIST students can in fact enjoy themselves in the middle of nowhere in Nara.
 =======
 

@@ -1,6 +1,6 @@
 
 NAIST is a very happy place to study wonderful thing
-It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
+It is well-established that  the students are very happy with their lives in the university. This study aims to determine how .... Specifically, it investigates whether ... 
 
 
 To test the hypothesis ... we performed a high-quality questionnaire 

@@ -1,5 +1,5 @@
 
-NAIST is a very happy place to study ...
+NAIST is a very happy place to study wonderful thing
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
 
 
